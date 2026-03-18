@@ -10,7 +10,7 @@
 - 🌱 Learning: Advanced Backend, APIs, System Design
 - 💡 Interested in: Web Development & AI
 - ⚡ Goal: Become a top-level developer
-- 📫 Contact: your@email.com
+- 📫 Contact: t.me/Tox1C_2x
 
 ---
 
@@ -35,8 +35,8 @@ Tools:
 
 🚀 Projects
 
-- 🔗 TMPVL → (Add your repo link)
-- 🔗 tmpvl-backend → (Add your repo link)
+- 🔗 TMPVL → 
+- 🔗 tmpvl-backend →
 
 ---
 
@@ -45,13 +45,6 @@ Tools:
 "Stats" (https://github-readme-stats.vercel.app/api?username=Tox1C-2x&show_icons=true&theme=radical)
 
 "Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Tox1C-2x&layout=compact&theme=radical)
-
----
-
-🌐 Connect With Me
-
-- 💼 LinkedIn: (add link)
-- 🌍 Portfolio: (add link)
 
 ---
 
